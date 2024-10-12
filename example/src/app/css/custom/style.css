@@ -1,0 +1,12 @@
+.avatar-no-bg div , .avatar-no-bg span{
+    background-color: transparent !important;
+}
+.avatar-no-bg div , .avatar-no-bg span{
+    color: #fff;
+}
+.select-rounded select{ 
+    border-radius: 0px !important;
+}
+.bg-authlayout{
+    background: rgba(255, 255, 255, 1);
+}

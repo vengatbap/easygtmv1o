@@ -1,0 +1,31 @@
+:root{
+    --color-info:#46caeb;
+    --color-success:#00ceb6;
+    --color-warning:#FFB900;
+    --color-error:#a31616;
+    --color-lightsuccess:#00ceb620;
+    --color-lighterror:#FF669220;
+    --color-lightinfo:#46caeb20;
+    --color-lightwarning:#FFB90020;
+   
+    --color-link:#2a3547;
+    --color-muted:#EFF4FA;
+    --color-darkmuted:#2A3851;
+    --color-darklink:#7b8893;
+    --color-lightgray:#F8FAFD;
+    --color-lighthover:#F6F9FC;
+    --color-darkgray:#1A2537;
+    --color-error-emphasis:#d5745b;
+    --color-warning-emphasis:#d9941a;
+    --color-success-emphasis:#10bd9d;
+    --color-surface-ld:#ffffff;
+    --color-primary:rgba(61, 71, 152, 1);
+    --color-secondary:rgba(61, 71, 152, 1);
+    --color-dark:rgba(52, 64, 84, 1);
+    --color-white:rgba(255, 255, 255,1) ;
+    --color-border:#e0e6eb;
+    --color-bordergray:rgba(208, 213, 221, 1);
+    --color-darkborder:#333F55;
+
+
+}
